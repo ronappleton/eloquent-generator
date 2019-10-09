@@ -1,11 +1,11 @@
-# Eloquent Model Generator
+# Eloquent Generator
 
 Eloquent Model Generator is a tool based on [Code Generator](https://github.com/krlove/code-generator) for generating Eloquent models.
 
 ## Installation
 Step 1. Add Eloquent Model Generator to your project:
 ```
-composer require krlove/eloquent-model-generator --dev
+composer require ronappleton/eloquent-generator --dev
 ```
 Step 2. Register `GeneratorServiceProvider`:
 ```php
